@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Isaac's Corner"
+title                    : "A Multi-armed Bandit"
 title_separator          : "-"
 name                     : &name "Isaac Ahouma"
 description              : &description "personal description"
