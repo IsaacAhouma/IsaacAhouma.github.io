@@ -1,18 +1,14 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "Isaac Ahouma"
   uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  email       : "isaacsahouma@gmail.com"
+  bio         : " My name is Isaac Ahouma. I obtained my Master in Deep Learning from the University of Montréal 
+                  and the Montréal Institute for Learning Algorithms (MILA). 
+                  Before that I received a Bachelor in Computer Science from The University of British Columbia. 
+                  I have a profound interest in applied mathematics, technology, machine learning, deep learning, and recently Bayesian statistics. 
+                  I am a continual learner and enjoy working on personal projects involving one or more of the mentioned topics."
   avatar      : "bio-photo-2.jpg"
   twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
   google_plus : "Name"
