@@ -13,7 +13,7 @@ This is a Neurips 2019 reproducibility challenge project. In this project, my pa
 <!-- <img src='./reliable_networks.png' alt="Project Poster" width="200"
          height="80"> -->
 <img src="https://github.com/IsaacAhouma/IsaacAhouma.github.io/blob/master/images/Reliable%20Training%20and%20Estimation%20of%20Variance%20Networks.png" alt="Project Poster" width="200"
-         height="80">
+         height="100">
 <!-- <img src='/files/Reliable_training_and _estimation_of_variance_networks_poster.pdf' alt=''> Poster </img> -->
 
 The <a href='https://github.com/IsaacAhouma/IsaacAhouma.github.io/blob/master/files/Reliable_training_and_estimation_of_variance_networks_report.pdf' > project report </a>is also available.
