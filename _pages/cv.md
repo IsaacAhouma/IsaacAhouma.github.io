@@ -15,7 +15,7 @@ Education
 * Bachelor of Computer Science, The University of British Columbia, 2018
 * Bachelor of Arts in Operations Research, York University, 2015
 
-Work experience
+Work Experience
 ======
 * May 2019 - November 2019: NLP Research Engineer Intern
   * Keatext Inc
