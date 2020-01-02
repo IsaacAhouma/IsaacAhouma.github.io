@@ -12,11 +12,11 @@ redirect_from:
 
 My goal with this blog is to help vulgarize technology, machine learning in particular, to underrepresented communities and to make new connections. I am very interested in using machine learning for good and for social entrepreneurship.
 
-| Interests  | Education |
-|---------|----------------|
-| Deep Learning | something      |
-| Computational Optimization | something else |
-| Applied Mathematics | something else |
-| Reinforcement Learning | something else |
-| Data Visualization | something else |
-| Entrepreneurship | something else |
+**Interests**
+
+  *Machine Learning
+  *Computational Optimization
+  *Applied Mathematics
+  *Reinforcement Learning
+  *Data Visualization
+  *Entrepreneurship
