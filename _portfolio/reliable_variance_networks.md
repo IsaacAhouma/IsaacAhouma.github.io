@@ -8,6 +8,6 @@ collection: portfolio
 This is a Neurips 2019 reproducibility challenge project. In this project, my partners and I implemented <a href='https://papers.nips.cc/paper/8862-reliable-training-and-estimation-of-variance-networks.pdf'>the following paper</a> 
    and reproduced its results.
   
-![Project Poster](https://github.com/IsaacAhouma/IsaacAhouma.github.io/blob/master/images/Reliable%20Training%20and%20Estimation%20of%20Variance%20Networks.png)
+[Project Poster](https://github.com/IsaacAhouma/IsaacAhouma.github.io/blob/master/images/Reliable%20Training%20and%20Estimation%20of%20Variance%20Networks.png)
 
-The <a href='https://github.com/IsaacAhouma/IsaacAhouma.github.io/blob/master/files/Reliable_training_and_estimation_of_variance_networks_report.pdf' > project report </a>is also available.
+The <a href='https://github.com/IsaacAhouma/IsaacAhouma.github.io/blob/master/images/Reliable%20Training%20and%20Estimation%20of%20Variance%20Networks.png' > project poster </a> and <a href='https://github.com/IsaacAhouma/IsaacAhouma.github.io/blob/master/files/Reliable_training_and_estimation_of_variance_networks_report.pdf' > project report </a> are available.
