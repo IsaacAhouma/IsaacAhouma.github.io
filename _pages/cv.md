@@ -37,7 +37,7 @@ Skills
 * Python Programming
   * Tensorflow & Keras
   * Pytorch
-  * Numpy and data science libraries such as Pandas, Matplotlib and scikit-learn.
+  * Numpy and data science libraries such as Pandas, Matplotlib and Scikit-learn.
   
 Projects
 ======
