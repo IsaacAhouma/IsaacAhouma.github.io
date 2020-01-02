@@ -12,7 +12,7 @@ redirect_from:
 
 My goal with this blog is to help vulgarize technology, machine learning in particular, to underrepresented communities and to make new connections with like minded folks. I am very interested in using machine learning for good and for social entrepreneurship.
 
-In my spare time I enjoying playing or watching sports, learn new languages and travel. I am flent in bith French and English and can conversate in Spanish. I have lived in 4 and visited 15 different countries over the past 10 years.
+In my spare time I enjoying playing or watching sports, learn new languages and travel. I am fluent in both French and English and can conversate in Spanish. I have lived in 4 and visited 15 different countries over the past 10 years.
 
 **Interests**
 
