@@ -14,9 +14,10 @@ My goal with this blog is to help vulgarize technology, machine learning in part
 
 **Interests**
 
-  *Machine Learning
-  *Computational Optimization
-  *Applied Mathematics
-  *Reinforcement Learning
-  *Data Visualization
-  *Entrepreneurship
+*
+  Machine Learning
+  Computational Optimization
+  Applied Mathematics
+  Reinforcement Learning
+  Data Visualization
+  Entrepreneurship
