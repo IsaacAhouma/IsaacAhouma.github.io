@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Isaac Ahouma"
-  avatar           : "profile_pic.jpg"
+  avatar           : "profile_pic.png"
   bio              : " My name is Isaac Ahouma. I obtained my Master in Deep Learning from the University of Montréal and the Montréal Institute for Learning Algorithms (MILA). Before that I received a Bachelor in Computer Science from The University of British Columbia and another in Operations Research from York University. I have a profound interest in applied mathematics, technology, machine learning, deep learning, and recently Bayesian statistics. I am a continual learner and enjoy working on personal projects involving one or more of the mentioned topics."
   location         : "Toronto, Ontario"
   employer         :
