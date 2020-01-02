@@ -29,10 +29,11 @@ Work experience
 Skills
 ======
 * Machine Learning & Deep Learning
+* Natural Language Processing
 * Data Science
   * Extraction, transformation and loading of complex datasets
   * Data visualization
-  * Sub-skill 2.3
+  * Communication (Technical and non-technical)
 * Python Programming
   * Tensorflow & Keras
   * Pytorch
