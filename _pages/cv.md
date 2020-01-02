@@ -38,9 +38,9 @@ Skills
   * Pytorch
   * Numpy and data science libraries such as Pandas, Matplotlib and scikit-learn.
   
-Talks
+Projects
 ======
   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
   
