@@ -317,4 +317,4 @@ compress_html:
 # remote_theme           : "mmistakes/minimal-mistakes"
 theme: jekyll-theme-midnight
 # remote_theme: christianezeani/panthera-jekyll
-# minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
