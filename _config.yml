@@ -136,10 +136,10 @@ exclude:
   - LICENSE
   - README
   - Rakefile
-#   - assets/js/_main.js
-#   - assets/js/plugins
-#   - assets/js/vendor
-  - assets
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+#   - assets
   - config
   - gulpfile.js
   - log
@@ -266,6 +266,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -313,7 +314,6 @@ compress_html:
 
 # theme: jekyll-theme-midnight
 # remote_theme: benbalter/retlab
-plugins:
-  - jekyll-remote-theme
-remote_theme           : "mmistakes/minimal-mistakes"
+# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme: benbalter/retlab
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
