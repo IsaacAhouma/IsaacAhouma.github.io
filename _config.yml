@@ -315,5 +315,5 @@ compress_html:
 # theme: jekyll-theme-midnight
 # remote_theme: benbalter/retlab
 # remote_theme           : "mmistakes/minimal-mistakes"
-remote_theme: benbalter/retlab
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme: panthera-jekyll
+# minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
