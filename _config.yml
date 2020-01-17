@@ -136,9 +136,10 @@ exclude:
   - LICENSE
   - README
   - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
+#   - assets/js/_main.js
+#   - assets/js/plugins
+#   - assets/js/vendor
+  - assets
   - config
   - gulpfile.js
   - log
